@@ -1,12 +1,12 @@
-## Olá, me chamo Lucas 👋
+## Hi! My name is Lucas 👋
 
-#### Sou um Front-end Developer, estudando Back-end para me tornar um Fullstack Developer. Experiência com startups, metodologia Agile, Scrum, Design Sprint e desenvolvimento de interfaces interativas e dinâmicas na web.
+#### I'm a Fullstack developer. Experience with startups, Agile systems, Scrum, Design Sprint and creating interactive and dynamic interfaces on web. 💻
 
-- 🌱 No momento aprendendo Node.js e Python como tecnologias de Back-end, bem como os Frameworks Django e Flask para construção de páginas com Python
-- 👯 Buscando oportunidades para adquirir experiência e aprender coisas novas.
-- 🥅 Metas para 2020/2021: Contribuir de alguma maneira em projetos Open Source significativos.
+- 🌱 Studying a lot of React Native.
+- 👯 Looking for opportunities where I can show my full potential.
+- 🥅 Goals this year: Be really good at React Native and UI/UX.
 
-### Se conecte comigo:
+### Social:
 
 
 [<img align="left" alt="llucasduartee | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -14,7 +14,7 @@
 
 <br />
 
-### Linguagens e Ferramentas:
+### Techs and tools I use:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
